@@ -17,10 +17,8 @@
         <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent">
-
             <com.cleveroad.audiovisualization.GLAudioVisualizationView
                 xmlns:android="http://schemas.android.com/apk/res/android"
-                xmlns:app="http://schemas.android.com/apk/res-auto"
                 android:id="@+id/visualizer_view"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
@@ -33,7 +31,6 @@
                 app:av_wavesCount="50"
                 app:av_wavesFooterHeight="170dp"
                 app:av_wavesHeight="60dp" />
-
             <ImageButton
                 android:id="@+id/favoriteIcon"
                 android:layout_width="wrap_content"

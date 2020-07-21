@@ -14,7 +14,7 @@
         android:padding="20dp">
 
         <ImageView
-            android:id="@+id/DurgeshNandan"
+            android:id="@+id/SahilGunake"
             android:layout_width="200dp"
             android:layout_height="200dp"
             android:layout_centerHorizontal="true"
@@ -25,7 +25,7 @@
             android:id="@+id/about_us_text"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_below="@+id/DurgeshNandan"
+            android:layout_below="@+id/SahilGunake"
             android:layout_centerHorizontal="true"
             android:layout_marginTop="11dp"
             android:gravity="center"
